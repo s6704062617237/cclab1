@@ -3,7 +3,7 @@
 int main() {
 	int x;
 	int y;
-	printf("n1 n2:");
+	printf("n1\nn2\n:");
 	scanf("%d%d",&x,&y);
 	if(x>y){
 		printf("num1 is greater than num2");
