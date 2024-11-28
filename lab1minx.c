@@ -5,7 +5,8 @@ int main() {
 	int y=1000;
 	if(x>y){
 		printf("num1 is greater than num2");
-	}else{
+	}
+	if(x<y){
 		printf("num2 is greater than num1");
 	}
 }
